@@ -25,7 +25,18 @@
     margin-bottom: 2em;
     font-size: 1.25em;
 }
+#hours{
+    text-align: center;
+    background-color: #eee;
+    padding: 80px;
+    margin-bottom: 2em;
 
+}
+#hours p{
+    text-align: center;
+    margin-bottom: 1em;
+    font-size: 1.5em;
+}
 #visit-our-school a {
     color: #a51417;
     border: #a51417;
